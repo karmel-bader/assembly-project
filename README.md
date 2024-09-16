@@ -1,1 +1,1 @@
-this project enable the user to user to enter a number between 0 and 999, and then display: The number in binary format, The number in hexadecimal format and The number in Roman format using subroutines to organize the code
+this project enable the user to enter a number between 0 and 999, and then display: The number in binary format, The number in hexadecimal format and The number in Roman format using subroutines to organize the code
